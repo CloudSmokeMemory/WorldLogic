@@ -1,5 +1,5 @@
 ## 实现目录
->#### [算法-实现]()
+>#### [算法-实现](https://github.com/CloudSmokeMemory/WorldLogic/blob/main/realize/algorithm_realize/algorithm_realizeIndex.md)
 >#### [物理]()
 >>##### [原子特性]()
 >#### [生物]()
