@@ -20,7 +20,7 @@ public:
     }
 };
 ```
-[返回题目](https://github.com/CloudSmokeMemory/WorldLogic/blob/main/realize/algorithm_realize/algorithm2realize/%E6%8E%92%E5%BA%8F/1_1%E5%90%88%E5%B9%B6%E5%8C%BA%E9%97%B4/%E5%90%88%E5%B9%B6%E5%8C%BA%E9%97%B4.md#%E9%A2%98%E7%9B%AE)
+[返回题目][返回题目]
 
 ```
 作者：LeetCode-Solution
@@ -28,3 +28,5 @@ public:
 来源：力扣（LeetCode）
 著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
 ```
+
+[返回题目]:https://github.com/CloudSmokeMemory/WorldLogic/blob/main/realize/algorithm_realize/algorithm2realize/%E6%8E%92%E5%BA%8F/1_1%E5%90%88%E5%B9%B6%E5%8C%BA%E9%97%B4/%E5%90%88%E5%B9%B6%E5%8C%BA%E9%97%B4.md#%E9%A2%98%E7%9B%AE
