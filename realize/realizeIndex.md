@@ -1,6 +1,10 @@
-# 想法目录
+# 实现目录
 
->>## [算法-实现](https://github.com/CloudSmokeMemory/WorldLogic/blob/main/realize/algorithm_realize/algorithm_realizeIndex.md)
+>## [积累]()
+>
+>>### [算法-实现][1]
+>>
+>>### [阅读灵感][2]
 >
 >## [物理]() 
 >
@@ -29,3 +33,6 @@
 >## [时空换算]()
 >
 >## [工具]()
+
+[1]:https://github.com/CloudSmokeMemory/WorldLogic/blob/main/realize/algorithm_realize/algorithm_realizeIndex.md
+[2]:
