@@ -35,4 +35,4 @@
 >## [工具]()
 
 [1]:https://github.com/CloudSmokeMemory/WorldLogic/blob/main/realize/algorithm_realize/algorithm_realizeIndex.md
-[2]:
+[2]:readingIdea/bookIndex.md
