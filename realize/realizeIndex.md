@@ -5,6 +5,8 @@
 >>### [算法-实现][1]
 >>
 >>### [阅读灵感][2]
+>>
+>>### [基础学习][3] 
 >
 >## [物理]() 
 >
@@ -36,3 +38,4 @@
 
 [1]:https://github.com/CloudSmokeMemory/WorldLogic/blob/main/realize/algorithm_realize/algorithm_realizeIndex.md
 [2]:readingIdea/bookIndex.md
+[3]:learning/learning.md
