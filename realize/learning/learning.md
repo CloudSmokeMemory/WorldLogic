@@ -3,3 +3,7 @@
 ## [OpenGL][1]
 
 [1]:openGL/openGL.md
+
+## [JavaScript][2]
+
+[2]:JavaScript/JavaScript.md
