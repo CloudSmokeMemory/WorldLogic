@@ -3,17 +3,19 @@
   <head>
     <meta charset="utf-8" />
     <title>Draw points with specified color</title>
+    <script>
+      function fn(n,o){
+        console.log(o);
+        return{
+          fn:function(m) {
+            return fn(m,n);
+          }
+        };
+      }
+      var c = fn(0).fn(1);
+      c.fn(2);
+      c.fn(3);
+    </script>
   </head>
 
-  <body onload="main()">
-    <canvas id="webgl" width="400" height="400">
-    Please use a browser that supports "canvas"
-    </canvas>
-
-    <script src="../lib/webgl-utils.js"></script>
-    <script src="../lib/webgl-debug.js"></script>
-    <script src="../lib/cuon-utils.js"></script>
-    <script src="../lib/cuon-matrix.js"></script>
-    <script src="MultiTexture.js"></script>
-  </body>
 </html>
