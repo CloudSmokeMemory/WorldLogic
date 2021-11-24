@@ -1,6 +1,6 @@
 # 想法目录
 
->## [核心法则](https://github.com/CloudSmokeMemory/WorldLogic/blob/main/mind/coreRule/%E6%A0%B8%E5%BF%83%E6%B3%95%E5%88%99.md#%E6%A0%B8%E5%BF%83%E6%B3%95%E5%88%99)
+>## [核心法则](coreRule/核心法则.md)
 >
 >## [物理]() 
 >

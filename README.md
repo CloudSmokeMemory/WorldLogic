@@ -35,13 +35,13 @@
 
 ## 想法
 
-&emsp;&emsp;我抛砖引玉的提出[核心法则](https://github.com/CloudSmokeMemory/WorldLogic/blob/main/mind/coreRule/%E6%A0%B8%E5%BF%83%E6%B3%95%E5%88%99.md#%E6%A0%B8%E5%BF%83%E6%B3%95%E5%88%99)，所有的想法都尽量在符合核心法则的框架中（可以打破框架，需要能够给出合理的解释）。对于想法的讨论只要符合逻辑的都为合理存在，每个想法要有解释，例子，意义。通过不断的想法更替希望我们更够不断优化出一套完美的想法。
+&emsp;&emsp;我抛砖引玉的提出[核心法则](mind/coreRule/%E6%A0%B8%E5%BF%83%E6%B3%95%E5%88%99.md#%E6%A0%B8%E5%BF%83%E6%B3%95%E5%88%99)，所有的想法都尽量在符合核心法则的框架中（可以打破框架，需要能够给出合理的解释）。对于想法的讨论只要符合逻辑的都为合理存在，每个想法要有解释，例子，意义。通过不断的想法更替希望我们更够不断优化出一套完美的想法。
 
-### [想法目录](https://github.com/CloudSmokeMemory/WorldLogic/blob/main/mind/mindIndex.md#%E6%83%B3%E6%B3%95%E7%9B%AE%E5%BD%95)
+### [想法目录](mind/mindIndex.md#%E6%83%B3%E6%B3%95%E7%9B%AE%E5%BD%95)
 
 ## 实现
 
 &emsp;&emsp;每一种想法对应着三种不同的实现（精华，完整，终极），建议大家先尝试精华版的实现，再过渡到完整版，最后的终极版不要着急完成（需要我们一起努力）。  
-&emsp;&emsp;实现的过程中会遇到算法上一个又一个的困难，需要大家不断积累，平时多思考，因此建立了[算法-实现](https://github.com/CloudSmokeMemory/WorldLogic/blob/main/realize/algorithm_realize/algorithm_realizeIndex.md)的仓库，便于查找对应实现的算法，和对应算法的实现。
+&emsp;&emsp;实现的过程中会遇到算法上一个又一个的困难，需要大家不断积累，平时多思考，因此建立了[算法-实现](realize/algorithm_realize/algorithm_realizeIndex.md)的仓库，便于查找对应实现的算法，和对应算法的实现。
 
-### [实现目录](https://github.com/CloudSmokeMemory/WorldLogic/blob/main/realize/realizeIndex.md)
+### [实现目录](realize/realizeIndex.md)

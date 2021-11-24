@@ -36,6 +36,6 @@
 >
 >## [工具]()
 
-[1]:https://github.com/CloudSmokeMemory/WorldLogic/blob/main/realize/algorithm_realize/algorithm_realizeIndex.md
+[1]:algorithm_realize/algorithm_realizeIndex.md
 [2]:readingIdea/bookIndex.md
 [3]:learning/learning.md
