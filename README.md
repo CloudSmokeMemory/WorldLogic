@@ -44,6 +44,4 @@
 &emsp;&emsp;每一种想法对应着三种不同的实现（精华，完整，终极），建议大家先尝试精华版的实现，再过渡到完整版，最后的终极版不要着急完成（需要我们一起努力）。  
 &emsp;&emsp;实现的过程中会遇到算法上一个又一个的困难，需要大家不断积累，平时多思考，因此建立了[算法-实现](https://github.com/CloudSmokeMemory/WorldLogic/blob/main/realize/algorithm_realize/algorithm_realizeIndex.md)的仓库，便于查找对应实现的算法，和对应算法的实现。
 
-啊哈哈哈
-
 ### [实现目录](https://github.com/CloudSmokeMemory/WorldLogic/blob/main/realize/realizeIndex.md)
